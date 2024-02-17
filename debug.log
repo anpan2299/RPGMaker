@@ -35,3 +35,4 @@
 [0908/141124.348:ERROR:settings.cc(325)] Settings version is not 1
 [0908/142547.733:ERROR:settings.cc(325)] Settings version is not 1
 [1215/225347.299:ERROR:settings.cc(325)] Settings version is not 1
+[0213/223429.025:ERROR:http_transport_win.cc(178)] WinHttpCrackUrl: A operação foi concluída com êxito. (0x0)
